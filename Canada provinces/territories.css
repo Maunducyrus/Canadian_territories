@@ -1,0 +1,25 @@
+body{
+    background-color:gray;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+tr:nth-child(even){
+   background-color: dimgray; 
+}
+th{
+    background-color: blue;
+    color: #ffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+td{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#province{
+    font-weight: bold;
+    margin-left: 100%;
+}
