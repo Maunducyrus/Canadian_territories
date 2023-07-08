@@ -1,0 +1,39 @@
+/*
+body{
+    background-image: url("C:\Users\MAUNDU CYRUS\Pictures\8YfS.gif");
+}
+*/
+body{
+    background-color: darkgray;
+}
+h1{
+    text-align: center;
+    color: blue;
+    text-shadow: 5px;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+div#net{
+    text-transform: uppercase;
+    border: 3px solid green;
+    font-size: 20vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color:#fff;
+    text-align: center;
+    width: 60%;
+    height: 50%;
+    align-items:center;
+    background-color: darkred;
+    margin-left: 20%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
+p{
+    text-shadow: 8px 8px black;
+    letter-spacing: 1vh;
+}
+button{
+    margin-left: 20%;
+}
